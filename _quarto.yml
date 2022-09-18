@@ -14,8 +14,8 @@ website:
     left:
 #      - text: Home
 #        file: index.qmd
-      - text: Blog
-        file: blog.qmd
+#      - text: Blog
+#        file: blog.qmd
 #      - text: CV
 #        file: cv.qmd
 #      - text: Research
