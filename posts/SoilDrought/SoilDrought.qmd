@@ -1,0 +1,18 @@
+---
+title: "Multiyear drought in Germany"
+date: "2022-08-22"
+categories: [climate, drought]
+image: "image.png"
+fig-cap-location: margin
+---
+
+In the summer of 2022 large parts of Germany suffer under extreme drought conditions.
+
+![State of soil drought in Germany in August 2022](image.png){width="75%"}
+
+
+We can gain further insights from a look into the historic context. The UFZ provides a historic record of the soil drought state for Germany starting in 1951. The following figure shows the % of surface area of Germany affected by different levels of drought for the period from 1951 - 2020.
+
+![Historic context of soil drought in Germany since 1951](Drought_Areas_Stream_timeline.png){width="75%"}
+
+This provides some interesting context for the current ongoing drought event. First, the drought of 2003 is comparably small in comparison to other drought events, e.g. from the 70's. Furthermore, soil moisture quickly recovered after that summer. In contrast, the effects of the 2018 drought in Germany have been much larger. Remarkably, even in the two following years soil moisture did not recover.

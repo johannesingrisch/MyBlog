@@ -1,0 +1,52 @@
+---
+title: "Johannes Ingrisch"
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  image: profileQuad.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/JohnnyIngrisch
+#    - icon: github
+#      text: Github
+#      href: https://github.com
+    - icon: orcid
+      text: Orcid
+      href: https://orcid.org/0000-0002-8461-8689
+---
+
+
+------------------------------------------------------------------------
+
+*Humans are changing Planet Earth at a rapid pace. I am a scientist trying to understand and communicate the ecological consequences of global change.*
+
+------------------------------------------------------------------------
+
+::: {#hero-heading}
+I am an ecologist by training and have been studying the effects of climate change on ecosystems for more than 10 years. My main research interest is to understand the resilience of plants, soils, and ecosystems to extreme climatic events like drought. I do so, by combining conceptual frameworks of resilience, field experiments, and data science.
+
+## Education
+
+PhD \| University of Innsbruck \| 2012 - 2018
+
+MSc Geoecology \| University of Bayreuth \| 2009 - 2011
+
+BSc Geoecology \| University of Bayreuth \| 2005 - 2008
+
+## Experience
+
+Postdoc \| University of Innsbruck \| 2018 - ongoing
+
+Postdoc \| University of Freiburg \| 2019 - 2021
+
+Visiting Scientist \| University of Arizona \| 2019
+
+Research Assistant \| University of Vienna \| 2017
+
+Research Campaign in Tibet \| TiP AEG cluster \| 2010
+
+Erasmus exchange semester \| Sweden \| 2009
+:::

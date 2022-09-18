@@ -1,0 +1,55 @@
+---
+title: "Publications (peer-reviewed) "
+---
+
+For a full list of publications visit my [googleScholar](https://scholar.google.com/citations?user=zY_ghlMAAAAJ&hl=de) profile
+
+## 2022
+
+Ingrisch, J., Umlauf, N., Bahn, M. (accepted) Functional thresholds alter the relationship of plant resistance and recovery to drought. Ecology. 
+
+Verbrigghe, N., Meeran, K., Bahn, M., Canarini, A., Fransen, E., Fuchslueger, L., Ingrisch, J., Janssens, I. A., Richter, A., Sigurdsson, B. D., Soong, J. L., & Vicca, S. (2022). Long-term warming reduced microbial biomass but increased recent plant-derived C in microbes of a subarctic grassland. Soil Biology and Biochemistry, 167, 108590. <https://doi.org/10.1016/j.soilbio.2022.108590>
+
+## 2021
+
+Werner, C., Meredith, L. K., Ladd, S. N., Ingrisch, J., Kuebert, A., van Haren, J., Bahn, M., Bailey, K., Bamberger, I., Beyer, M., Blomdahl, D., Byron, J., Daber, E., Deleeuw, J., Dippold, M. A., Fudyma, J., Gil-Loaiza, J., Honeker, L. K., Hu, J., ... Williams, J. (2021). Ecosystem fluxes during drought and recovery in an experimental forest. Science, 374(6574), 1514--1518. <https://doi.org/10.1126/science.abj6789>
+
+Wilfahrt, P. A., Schweiger, A. H., Abrantes, N., Arfin-Khan, M. A. S., Bahn, M., Berauer, B. J., Bierbaumer, M., Djukic, I., van Dusseldorp, M., Eibes, P., Estiarte, M., von Hessberg, A., Holub, P., Ingrisch, J., Schmidt, I. K., Kesic, L., Klem, K., Kroel-Dulay, G., Larsen, K. S., ... Jentsch, A. (2021). Disentangling climate from soil nutrient effects on plant biomass production using a multispecies phytometer. Ecosphere, 12(8), e03719. <https://doi.org/10.1002/ecs2.3719>
+
+Meeran, K., Ingrisch, J., Reinthaler, D., Canarini, A., M?ller, L., P?tsch, E. M., Richter, A., Wanek, W., & Bahn, M. (2021). Warming and elevated CO2 intensify drought and recovery responses of grassland carbon allocation to soil respiration. Global Change Biology, 27(14), 3230--3243. <https://doi.org/10.1111/gcb.15628>
+
+Harris, E., Diaz-Pines, E., Stoll, E., Schloter, M., Schulz, S., Duffner, C., Li, K., Moore, K. L., Ingrisch, J., Reinthaler, D., Zechmeister-Boltenstern, S., Glatzel, S., Brueggemann, N., & Bahn, M. (2021). Denitrifying pathways dominate nitrous oxide emissions from managed grassland during drought and rewetting. *Science Advances*, *7*(6), eabb7118. <https://doi.org/10.1126/sciadv.abb7118>
+
+## 2020
+
+Ingrisch, J., Karlowsky, S., Hasibeder, R., Gleixner, G., & Bahn, M. (2020). Drought and recovery effects on belowground respiration dynamics and the partitioning of recent carbon in managed and abandoned grassland. Global Change Biology, 26(8), 4366--4378. <https://doi.org/10.1111/gcb.15131>
+
+## 2019
+
+Miehe, G., Schleuss, P.-M., Seeber, E., Babel, W., Biermann, T., Braendle, M., Chen, F., Coners, H., Foken, T., Gerken, T., Graf, H.-F., Guggenberger, G., Hafner, S., Holzapfel, M., Ingrisch, J., Kuzyakov, Y., Lai, Z., Lehnert, L., Leuschner, C., ... Wesche, K. (2019). The Kobresia pygmaea ecosystem of the Tibetan highlands -- Origin, functioning and degradation of the world's largest pastoral alpine ecosystem: Kobresia pastures of Tibet. Science of The Total Environment, 648, 754--771. <https://doi.org/10.1016/j.scitotenv.2018.08.164>
+
+Berauer, B. J., Wilfahrt, P. A., Arfin-Khan, M. A., Eibes, P., Von Hessberg, A., Ingrisch, J., Schloter, M., Schuchardt, M. A., & Jentsch, A. (2019). Low resistance of montane and alpine grasslands to abrupt changes in temperature and precipitation regimes. *Arctic, Antarctic, and Alpine Research*, *51*(1), 215--231. <https://doi.org/10.1080/15230430.2019.1618116>
+
+## 2018
+
+Bahn, M., Ingrisch, J. (2018). Accounting for Complexity in Resilience Comparisons: A Reply to Yeung and Richardson, and Further Considerations. Trends in Ecology & Evolution, 33(9), 649--651. <https://doi.org/10.1016/j.tree.2018.06.006>
+
+Wu, D., Ciais, P., Viovy, N., Knapp, A. K., Wilcox, K., Bahn, M., Smith, M. D., Vicca, S., Fatichi, S., Zscheischler, J., He, Y., Li, X., Ito, A., Arneth, A., Harper, A., Ukkola, A., Paschalis, A., Poulter, B., Peng, C., ... Piao, S. (2018). Asymmetric responses of primary productivity to altered precipitation simulated by ecosystem models across three long-term grassland sites. Biogeosciences, 15(11), 3421--3437. <https://doi.org/10.5194/bg-15-3421-2018>
+
+Ingrisch, J., & Bahn, M. (2018). Towards a Comparable Quantification of Resilience. Trends in Ecology & Evolution, 33(4), 251--259. <https://doi.org/10.1016/j.tree.2018.01.013>
+
+Ingrisch, J., Karlowsky, S., Anadon-Rosell, A., Hasibeder, R., Koenig, A., Augusti, A., Gleixner, G., & Bahn, M. (2018). Land Use Alters the Drought Responses of Productivity and CO2 Fluxes in Mountain Grassland. Ecosystems, 21(4), 689--703. <https://doi.org/10.1007/s10021-017-0178-0>
+
+Karlowsky, S., Augusti, A., Ingrisch, J., Akanda, M. K. U., Bahn, M., & Gleixner, G. (2018). Drought-Induced Accumulation of Root Exudates Supports Post-drought Recovery of Microbes in Mountain Grassland. Frontiers in Plant Science, 9. <https://www.frontiersin.org/articles/10.3389/fpls.2018.01593>
+
+Karlowsky, S., Augusti, A., Ingrisch, J., Hasibeder, R., Lange, M., Lavorel, S., Bahn, M., & Gleixner, G. (2018). Land use in mountain grasslands alters drought response and recovery of carbon allocation and plant-microbial interactions. Journal of Ecology, 106(3), 1230--1243.<https://doi.org/10.1111/1365-2745.12910>
+
+## 2017
+
+Anadon-Rosell, A., Hasibeder, R., Palacio, S., Mayr, S., Ingrisch, J., Ninot, J. M., Nogues, S., & Bahn, M. (2017). Short-term carbon allocation dynamics in subalpine dwarf shrubs and their responses to experimental summer drought. Environmental and Experimental Botany, 141, 92--102. <https://doi.org/10.1016/j.envexpbot.2017.07.006>
+
+Gavazov, K., Ingrisch, J., Hasibeder, R., Mills, R. T. E., Buttler, A., Gleixner, G., Pumpanen, J., & Bahn, M. (2017). Winter ecology of a subalpine grassland: Effects of snow removal on soil respiration, microbial structure and function. Science of The Total Environment, 590--591, 316--324. <https://doi.org/10.1016/j.scitotenv.2017.03.010>
+
+## 2015
+
+Ingrisch, J., Biermann, T., Seeber, E., Leipold, T., Li, M., Ma, Y., Xu, X., Miehe, G., Guggenberger, G., & Foken, T. (2015). Carbon pools and fluxes in a Tibetan alpine Kobresia pygmaea pasture partitioned by coupled eddy-covariance measurements and ^13^CO~2~ pulse labeling. *Science of the Total Environment*, *505*, 1213--1224. <https://doi.org/10.1016/j.scitotenv.2014.10.082>
