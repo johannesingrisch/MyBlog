@@ -9,15 +9,16 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com/JohnnyIngrisch
+      url: "https://twitter.com/JohnnyIngrisch"
 #    - icon: github
 #      text: Github
 #      href: https://github.com
     - icon: orcid
       text: Orcid
-      href: https://orcid.org/0000-0002-8461-8689
+      url: "https://orcid.org/0000-0002-8461-8689"
     - text: CV
-      href: CV_Ingrisch.pdf
+      url: "cv.pdf"
+comments: false
 ---
 
 ------------------------------------------------------------------------

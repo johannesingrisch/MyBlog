@@ -1,11 +1,13 @@
 project:
   type: website
-  resources: "CV_Ingrisch.pdf"
+  resources: 
+    - cv.pdf
+    
 website:
   title: "Johannes Ingrisch"
   page-footer: 
     center: |
-      Copyright 2022 Johannes Ingrisch
+      Copyright 2023 Johannes Ingrisch
   twitter-card: 
     card-style: summary_large_image
     creator: "@JohnnyIngrisch"
@@ -13,8 +15,8 @@ website:
     background: primary
     search: true
     left:
-#      - text: Home
-#        file: index.qmd
+      - text: Home
+        file: index.qmd
 #      - text: Blog
 #        file: blog.qmd
 #      - text: CV
