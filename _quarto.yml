@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: "CV_Ingrisch.pdf"
 website:
   title: "Johannes Ingrisch"
   page-footer: 

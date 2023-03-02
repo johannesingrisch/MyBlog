@@ -16,6 +16,8 @@ about:
     - icon: orcid
       text: Orcid
       href: https://orcid.org/0000-0002-8461-8689
+    - text: CV
+      href: CV_Ingrisch.pdf
 ---
 
 ------------------------------------------------------------------------
@@ -27,7 +29,7 @@ about:
 ::: {#hero-heading}
 I am an ecologist by training and have been studying the effects of climate change on ecosystems for more than 10 years. My main research interest is to understand the resilience of plants, soils, and ecosystems to extreme climatic events like drought. I do so, by combining conceptual frameworks of resilience, field experiments, and data science.
 
-I am interested in data science, data visualisation, and science communication.
+I am interested in applying data science and data visualisation to gain and communicate new insights.
 
 ## Education
 

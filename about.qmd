@@ -17,7 +17,7 @@ about:
       text: Orcid
       href: https://orcid.org/0000-0002-8461-8689
     - text: CV
-      url: "CV_Ingrisch.pdf"
+      href: CV_Ingrisch.pdf
 ---
 
 # Welcome
