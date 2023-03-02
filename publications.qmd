@@ -6,7 +6,7 @@ For a full list of publications visit my [googleScholar](https://scholar.google.
 
 ## 2022
 
-Ingrisch, J., Umlauf, N., Bahn, M. (accepted) Functional thresholds alter the relationship of plant resistance and recovery to drought. Ecology. 
+Ingrisch, J., Umlauf, N., Bahn, M. (accepted) Functional thresholds alter the relationship of plant resistance and recovery to drought. Ecology 104(2) <https://doi.org/10.1002/ecy.3907>
 
 Verbrigghe, N., Meeran, K., Bahn, M., Canarini, A., Fransen, E., Fuchslueger, L., Ingrisch, J., Janssens, I. A., Richter, A., Sigurdsson, B. D., Soong, J. L., & Vicca, S. (2022). Long-term warming reduced microbial biomass but increased recent plant-derived C in microbes of a subarctic grassland. Soil Biology and Biochemistry, 167, 108590. <https://doi.org/10.1016/j.soilbio.2022.108590>
 

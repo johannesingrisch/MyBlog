@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "posts/SoilDrought/SoilDrought.html",
-    "href": "posts/SoilDrought/SoilDrought.html",
-    "title": "Multiyear drought in Germany",
-    "section": "",
-    "text": "State of soil drought in Germany in August 2022\n\n\nWe can gain further insights from a look into the historic context. The UFZ provides a historic record of the soil drought state for Germany starting in 1951. The following figure shows the % of surface area of Germany affected by different levels of drought for the period from 1951 - 2020.\n\n\n\nHistoric context of soil drought in Germany since 1951\n\n\nThis provides some interesting context for the current ongoing drought event. First, the drought of 2003 is comparably small in comparison to other drought events, e.g. from the 70’s. Furthermore, soil moisture quickly recovered after that summer. In contrast, the effects of the 2018 drought in Germany have been much larger. Remarkably, even in the two following years soil moisture did not recover."
-  },
-  {
-    "objectID": "science.html#effects-of-global-change-on-plant-soil-systems",
-    "href": "science.html#effects-of-global-change-on-plant-soil-systems",
-    "title": "Research",
-    "section": "Effects of global change on plant-soil systems",
-    "text": "Effects of global change on plant-soil systems\n\nDrought and land-use change in grasslands\n\n\nWarming in the Arctic\n\n\nEffects of drought on tropical rainforests"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Johannes Ingrisch",
-    "section": "",
-    "text": "Humans are changing Planet Earth at a rapid pace. I am a scientist trying to understand and communicate the ecological consequences of global change."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Johannes Ingrisch",
-    "section": "Education",
-    "text": "Education\nPhD | University of Innsbruck | 2012 - 2018\nMSc Geoecology | University of Bayreuth | 2009 - 2011\nBSc Geoecology | University of Bayreuth | 2005 - 2008"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Johannes Ingrisch",
-    "section": "Experience",
-    "text": "Experience\nPostdoc | University of Innsbruck | 2018 - ongoing\nPostdoc | University of Freiburg | 2019 - 2021\nVisiting Scientist | University of Arizona | 2019\nResearch Assistant | University of Vienna | 2017\nResearch Campaign in Tibet | TiP AEG cluster | 2010\nErasmus exchange semester | Sweden | 2009"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications (peer-reviewed)",
@@ -46,7 +11,7 @@
     "href": "publications.html#section",
     "title": "Publications (peer-reviewed)",
     "section": "2022",
-    "text": "2022\nIngrisch, J., Umlauf, N., Bahn, M. (accepted) Functional thresholds alter the relationship of plant resistance and recovery to drought. Ecology.\nVerbrigghe, N., Meeran, K., Bahn, M., Canarini, A., Fransen, E., Fuchslueger, L., Ingrisch, J., Janssens, I. A., Richter, A., Sigurdsson, B. D., Soong, J. L., & Vicca, S. (2022). Long-term warming reduced microbial biomass but increased recent plant-derived C in microbes of a subarctic grassland. Soil Biology and Biochemistry, 167, 108590. https://doi.org/10.1016/j.soilbio.2022.108590"
+    "text": "2022\nIngrisch, J., Umlauf, N., Bahn, M. (accepted) Functional thresholds alter the relationship of plant resistance and recovery to drought. Ecology 104(2) https://doi.org/10.1002/ecy.3907\nVerbrigghe, N., Meeran, K., Bahn, M., Canarini, A., Fransen, E., Fuchslueger, L., Ingrisch, J., Janssens, I. A., Richter, A., Sigurdsson, B. D., Soong, J. L., & Vicca, S. (2022). Long-term warming reduced microbial biomass but increased recent plant-derived C in microbes of a subarctic grassland. Soil Biology and Biochemistry, 167, 108590. https://doi.org/10.1016/j.soilbio.2022.108590"
   },
   {
     "objectID": "publications.html#section-1",
@@ -91,17 +56,52 @@
     "text": "2015\nIngrisch, J., Biermann, T., Seeber, E., Leipold, T., Li, M., Ma, Y., Xu, X., Miehe, G., Guggenberger, G., & Foken, T. (2015). Carbon pools and fluxes in a Tibetan alpine Kobresia pygmaea pasture partitioned by coupled eddy-covariance measurements and 13CO2 pulse labeling. Science of the Total Environment, 505, 1213–1224. https://doi.org/10.1016/j.scitotenv.2014.10.082"
   },
   {
+    "objectID": "science.html#effects-of-global-change-on-plant-soil-systems",
+    "href": "science.html#effects-of-global-change-on-plant-soil-systems",
+    "title": "Research",
+    "section": "Effects of global change on plant-soil systems",
+    "text": "Effects of global change on plant-soil systems\n\nDrought and land-use change in grasslands\n\n\nWarming in the Arctic\n\n\nEffects of drought on tropical rainforests"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Johannes Ingrisch",
     "section": "",
-    "text": "I am an ecologist. curious about the consequences of human actions for our climate.\nI aim to communicate climate change through scientific data and visualization"
+    "text": "Welcome\nI am an ecologist. curious about the consequences of human actions for our climate.\nI aim to communicate climate change through scientific data and visualization"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Johannes Ingrisch",
+    "section": "",
+    "text": "Humans are changing Planet Earth at a rapid pace. I am a scientist trying to understand and communicate the ecological consequences of global change."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Johannes Ingrisch",
+    "section": "Education",
+    "text": "Education\nMaster Data Science | University of Innsbruck | 2022 - ongoing\nPhD | University of Innsbruck | 2012 - 2018\nMSc Geoecology | University of Bayreuth | 2009 - 2011\nBSc Geoecology | University of Bayreuth | 2005 - 2008"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Johannes Ingrisch",
+    "section": "Experience",
+    "text": "Experience\nPostdoc | University of Innsbruck | 2018 - ongoing\nPostdoc | University of Freiburg | 2019 - 2021\nVisiting Scientist | University of Arizona | 2019\nResearch Assistant | University of Vienna | 2017\nResearch Campaign in Tibet | TiP AEG cluster | 2010\nErasmus exchange semester | Sweden | 2009"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Aug 22, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Multiyear drought in Germany\n\n\n\n\n\n\n\n\n\nAug 22, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/SoilDrought/SoilDrought.html",
+    "href": "posts/SoilDrought/SoilDrought.html",
+    "title": "Multiyear drought in Germany",
+    "section": "",
+    "text": "In the summer of 2022 large parts of Germany suffer under extreme drought conditions.\n\n\n\nState of soil drought in Germany in August 2022\n\n\nWe can gain further insights from a look into the historic context. The UFZ provides a historic record of the soil drought state for Germany starting in 1951. The following figure shows the % of surface area of Germany affected by different levels of drought for the period from 1951 - 2020.\n\n\n\nHistoric context of soil drought in Germany since 1951\n\n\nThis provides some interesting context for the current ongoing drought event. First, the drought of 2003 is comparably small in comparison to other drought events, e.g. from the 70’s. Furthermore, soil moisture quickly recovered after that summer. In contrast, the effects of the 2018 drought in Germany have been much larger. Remarkably, even in the two following years soil moisture did not recover."
   }
 ]
