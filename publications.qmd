@@ -4,9 +4,28 @@ title: "Publications (peer-reviewed) "
 
 For a full list of publications visit my [googleScholar](https://scholar.google.com/citations?user=zY_ghlMAAAAJ&hl=de) profile
 
-## 2022
+## 2023
+
+Pugliese, G., Ingrisch, J., Meredith, L., Pfannerstil E., Klüpfel, T., ..., Williams J. (2023) Effects of drought and recovery on soil volatile organic compound fluxes in an experimental rainforest. 
+Nature Communications 14. 5064. 
+
+Schuchhardt, M., Berauer, B., Le Duc, A., Ingrisch, J., ..., Jentsch, A. (2023) Increases in functional diversity of mountain plant communities is mainly driven by species turnover under climate change. 
+Oikos. <https://doi.org/10.1111/oik.09922>
+
+Honeker, L., Pugliese, G., Ingrisch, J., Fudyma, J., Gil-Loiaza, J., ..., Meredith, L. (2023) Drought re-routes soil microbial carbon metabolism towards emission of volatile metabolites in an artificial tropical rainforest. 
+Nature Microbiology 8, 1480-1494. 
+
+Meeran, K., Verbrigghe, N., Ingrisch, J., Fuchslueger, L., Müller, L., ..., Bahn, M. (2023) Individual and interactive effects of warming and nitrogen supply on CO2 fluxes and carbon allocation in subarctic grassland. 
+Global Change Biology. 
+<https://doi.org/10.1111/gcb.16851>
+
+Oram, N., Ingrisch J., Bardgett, R., Brennan F., Dittman, G., Gleixner, G., Illmer, P., Präg, N., Bahn, M. (2023) Drought intensity alters productivity, carbon allocation and plant nitrogen uptake in fast versus slow grassland communities. Jou
+Journal of Ecology. <https://doi.org/10.1111/1365-2745.14136>
 
 Ingrisch, J., Umlauf, N., Bahn, M. (accepted) Functional thresholds alter the relationship of plant resistance and recovery to drought. Ecology 104(2) <https://doi.org/10.1002/ecy.3907>
+
+
+## 2022
 
 Verbrigghe, N., Meeran, K., Bahn, M., Canarini, A., Fransen, E., Fuchslueger, L., Ingrisch, J., Janssens, I. A., Richter, A., Sigurdsson, B. D., Soong, J. L., & Vicca, S. (2022). Long-term warming reduced microbial biomass but increased recent plant-derived C in microbes of a subarctic grassland. Soil Biology and Biochemistry, 167, 108590. <https://doi.org/10.1016/j.soilbio.2022.108590>
 
@@ -16,7 +35,7 @@ Werner, C., Meredith, L. K., Ladd, S. N., Ingrisch, J., Kuebert, A., van Haren, 
 
 Wilfahrt, P. A., Schweiger, A. H., Abrantes, N., Arfin-Khan, M. A. S., Bahn, M., Berauer, B. J., Bierbaumer, M., Djukic, I., van Dusseldorp, M., Eibes, P., Estiarte, M., von Hessberg, A., Holub, P., Ingrisch, J., Schmidt, I. K., Kesic, L., Klem, K., Kroel-Dulay, G., Larsen, K. S., ... Jentsch, A. (2021). Disentangling climate from soil nutrient effects on plant biomass production using a multispecies phytometer. Ecosphere, 12(8), e03719. <https://doi.org/10.1002/ecs2.3719>
 
-Meeran, K., Ingrisch, J., Reinthaler, D., Canarini, A., M?ller, L., P?tsch, E. M., Richter, A., Wanek, W., & Bahn, M. (2021). Warming and elevated CO2 intensify drought and recovery responses of grassland carbon allocation to soil respiration. Global Change Biology, 27(14), 3230--3243. <https://doi.org/10.1111/gcb.15628>
+Meeran, K., Ingrisch, J., Reinthaler, D., Canarini, A., M?ller, L., Poetsch, E. M., Richter, A., Wanek, W., & Bahn, M. (2021). Warming and elevated CO2 intensify drought and recovery responses of grassland carbon allocation to soil respiration. Global Change Biology, 27(14), 3230--3243. <https://doi.org/10.1111/gcb.15628>
 
 Harris, E., Diaz-Pines, E., Stoll, E., Schloter, M., Schulz, S., Duffner, C., Li, K., Moore, K. L., Ingrisch, J., Reinthaler, D., Zechmeister-Boltenstern, S., Glatzel, S., Brueggemann, N., & Bahn, M. (2021). Denitrifying pathways dominate nitrous oxide emissions from managed grassland during drought and rewetting. *Science Advances*, *7*(6), eabb7118. <https://doi.org/10.1126/sciadv.abb7118>
 
